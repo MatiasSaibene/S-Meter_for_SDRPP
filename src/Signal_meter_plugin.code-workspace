@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../sdrpp-tetra-demodulator"
+		},
+		{
+			"path": "../../sdrpp-vhfvoiceradio"
+		},
+		{
+			"path": "../../SDRPlusPlus"
+		},
+		{
+			"path": "../../imgui"
+		}
+	],
+	"settings": {}
+}
