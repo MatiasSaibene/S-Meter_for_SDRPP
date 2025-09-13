@@ -2,7 +2,7 @@
 S-Meter widget for SDR++
 
 Video demostration:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nfl_-jtbemo?si=7VUtH3w9cMXiclJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![ S-Meter demo v0.1.0 for SDR++ ](https://img.youtube.com/vi/Nfl_-jtbemo/0.jpg)](https://www.youtube.com/watch?v=Nfl_-jtbemo)
 
 This is a small plugin (still in development) that displays signal strength in S-Units. For SDR++.
 
